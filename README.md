@@ -1,5 +1,5 @@
 # Python Django Path
-
+Renewed
 Sequence of topics (tentative):
 
 Basics:
